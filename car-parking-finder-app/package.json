@@ -17,7 +17,7 @@
     "react-native-modal": "7.0.2",
     "react-native-modal-dropdown": "0.6.2",
     "react-native-maps": "0.27.1",
-    "prop-types": "15.7.2",
+    "prop-types": "15.8.1",
     "@expo/vector-icons": "12.0.4"
   },
   "devDependencies": {
